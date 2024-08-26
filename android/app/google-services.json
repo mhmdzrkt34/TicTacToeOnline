@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906334483908",
+    "project_id": "xoapp-c0ae9",
+    "storage_bucket": "xoapp-c0ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906334483908:android:1d619af9b895abdf436091",
+        "android_client_info": {
+          "package_name": "com.example.xomultiplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkOKaJT3_l-hyyJzEWfuixK89WsSR1S7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
